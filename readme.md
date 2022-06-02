@@ -1,5 +1,4 @@
 # Shift-Cipher Brute-Forcing Tool
-----------------------------------------------------------------
 
 This is a simple tool I threw together as a learning project in python.
 
@@ -10,7 +9,6 @@ It can do shifts on alphanumeric characters (where it shifts digits separate fro
 (*Note: To shift based on digits and letters in one sequencial alphabet enter it manually.*)
 
 ## Future Plans
-----------------
 
 - Would like to have the ability to detect the best alphabet from some text, or present the user with likely alphabets.
 
