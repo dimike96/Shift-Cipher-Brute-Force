@@ -53,6 +53,16 @@ def exit_tool():
 
 # A simple menu to choose what to do and provide the text or alphabet if applicable
 def menu():
+    print(r"""
+               ______
+              |_,.,--\
+                 ||
+                 ||
+                 ##
+                 ## 
+                    """)
+
+
     print("Brutus - Cipher Brute-Forcing Tool V1.0")
     print("")
     valid_inputs = '123Qq'
